@@ -1,1 +1,1 @@
-# styles
+Common styles for projects.
